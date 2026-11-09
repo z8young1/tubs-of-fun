@@ -1,3 +1,6 @@
 research/
 __pycache__/
 .DS_Store
+
+# Claude Code saves approved commands here, sometimes with keys in them
+.claude/settings.local.json
